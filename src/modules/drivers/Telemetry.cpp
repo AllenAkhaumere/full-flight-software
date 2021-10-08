@@ -159,3 +159,5 @@ void Telemetry::end() {
     socket.close();
     connection = false;
 }
+
+

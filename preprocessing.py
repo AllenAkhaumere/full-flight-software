@@ -12,3 +12,4 @@ to_write = "#ifndef CONSTANTS_HPP\n#define CONSTANTS_HPP\n\n" + create_var + "\n
 file = open("include/flight/modules/lib/ConfigString.hpp", "w+")
 file.write(to_write)
 file.close()
+
